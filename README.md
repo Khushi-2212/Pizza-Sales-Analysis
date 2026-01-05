@@ -15,7 +15,9 @@ This project provides a comprehensive analysis of pizza sales data to help a bus
 - **DAX:** For advanced analytical measures.
 
 ## Dashboard Preview
+<img width="896" height="480" alt="Home Page" src="https://github.com/user-attachments/assets/4b52e311-c4ac-457d-8bd5-d510b66f4ff7" />
 
+<img width="883" height="474" alt="Best & Worst sellers page" src="https://github.com/user-attachments/assets/d659eefc-8842-4768-93e5-0d68c5904100" />
 
 ## How to Run:
 
